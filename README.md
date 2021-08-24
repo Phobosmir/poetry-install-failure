@@ -1,4 +1,5 @@
 
-* test.sh - test multiple run poetry under linux
-* runcrash.cmd - test multiple run poetry under windows
-* runcrash2.cmd - test multiple run venv+requirements.txt under windows
+* test.sh - test multiple run of poetry install under linux
+* test_poetry.cmd - test multiple run of poetry install under windows
+*    Warning: The scripts removes all poetry venvs in %LocalAppData%
+* test_pip.cmd - test multiple run of calling venv + pip w/ requirements.txt under windows
