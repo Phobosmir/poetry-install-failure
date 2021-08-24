@@ -2,7 +2,7 @@
 name = "poetrycrash"
 version = "0.1.0"
 description = ""
-authors = ["Ivan Ryazanov <satviewer@ya.ru>", "Mikhail Mironov" <phobosmir@gmail.com>]
+authors = ["Ivan Ryazanov <satviewer@ya.ru>", "Mikhail Mironov <phobosmir@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
